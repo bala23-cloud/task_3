@@ -91,10 +91,4 @@ The content is written in **easy-to-understand English**, suitable for beginners
 This document is intended **only for educational purposes** and practical learning.  
 It follows beginner-level explanations suitable for academic evaluation.
 
----
-
-## 📌 Author
-**Student Name:** _(Add your name)_  
-**Course / Subject:** _(Add subject name)_  
-**Institution:** _(Add college name)_
 
